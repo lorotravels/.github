@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lorotravels/.github/main/profile/assets/logo.png"/>
-    <img src="https://raw.githubusercontent.com/lorotravels/.github/main/profile/assets/mascot-head.png" alt="Loro — O mundo, mais perto de você." width="220px"/>
+    <img src="https://raw.githubusercontent.com/lorotravels/.github/main/profile/assets/mascot-head.png" alt="Loro — O mundo, mais perto de você." width="360"/>
   </picture>
 </p>
 
