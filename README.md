@@ -7,7 +7,6 @@ Perfil da [organização Loro](https://github.com/lorotravels) no GitHub e arqui
 ## Status atual
 
 - **Data:** 26/11/2026. **Base:** `main` `abc0ed4` (13/10), sem PR e sem alteração desde então.
-- **Pausa global do fundador (25/11 19:13):** nenhuma alteração até retomada explícita.
 - **Funciona:** `profile/README.md` (exibido na página da organização) e `profile/assets/` (`logo.png` para o tema escuro e `mascot-head.png` para o claro).
 - **Pendente:** `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`, `SECURITY.md`, `SUPPORT.md` e modelos de issue e de pull request ainda não existem.
 
